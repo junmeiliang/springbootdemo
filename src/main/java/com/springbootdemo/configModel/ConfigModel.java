@@ -5,7 +5,6 @@ import org.springframework.stereotype.Component;
 
 /**
  * Component：把普通pojo实例化到spring容器中
- * test 分支
  * ConfigurationProperties：将整个配置映射成一个对象
  */
 @Component
