@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * Component：把普通pojo实例化到spring容器中
+ * Component：把普通pojo实例化到spring容器中 
  * ConfigurationProperties：将整个配置映射成一个对象
  */
 @Component
